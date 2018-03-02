@@ -15,3 +15,5 @@ C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\
 C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.csprojResolveAssemblyReference.cache
 E:\FranzelinPatrick\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.exe
 E:\FranzelinPatrick\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.pdb
+C:\Users\OEM\Documents\schule\Automation\GIT\verschlüsselung\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.exe
+C:\Users\OEM\Documents\schule\Automation\GIT\verschlüsselung\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.pdb

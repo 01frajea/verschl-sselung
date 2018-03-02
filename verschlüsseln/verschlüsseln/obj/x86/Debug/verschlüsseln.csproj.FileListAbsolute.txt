@@ -1,0 +1,17 @@
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\bin\Debug\verschlüsseln.exe
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\bin\Debug\verschlüsseln.pdb
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\obj\x86\Debug\verschlüsseln.Form1.resources
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\obj\x86\Debug\verschlüsseln.Properties.Resources.resources
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\obj\x86\Debug\verschlüsseln.csproj.GenerateResource.Cache
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\obj\x86\Debug\verschlüsseln.exe
+C:\Users\OEM\AppData\Local\Temporary Projects\verschlüsseln\obj\x86\Debug\verschlüsseln.pdb
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.exe
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.pdb
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.Form1.resources
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.Properties.Resources.resources
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.csproj.GenerateResource.Cache
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\bin\Debug\verschlüsseln.exe
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\bin\Debug\verschlüsseln.pdb
+C:\Users\OEM\Documents\schule\Automation\GIT\test\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.csprojResolveAssemblyReference.cache
+E:\FranzelinPatrick\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.exe
+E:\FranzelinPatrick\verschlüsseln\verschlüsseln\obj\x86\Debug\verschlüsseln.pdb
